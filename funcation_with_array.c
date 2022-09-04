@@ -18,7 +18,7 @@ int main()
 		scanf("%d",&a[y]);
 	}
    
-	fun(a[y]);
+	fun(a);
 	
 	
 	return 0;
